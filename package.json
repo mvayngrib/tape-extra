@@ -1,0 +1,17 @@
+{
+  "name": "tape-extra",
+  "version": "1.0.0",
+  "description": "adds beforeEach/afterEach to [tape](https://github.com/substack/tape)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "Mark Vayngrib <mark.vayngrib@lablz.com> (http://github.com/mvayngrib)",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "*"
+  },
+  "peerDependencies": {
+    "tape": "*"
+  }
+}
